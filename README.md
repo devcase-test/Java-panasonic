@@ -1,1 +1,1 @@
-# Java-panasonic
+Dummy template
